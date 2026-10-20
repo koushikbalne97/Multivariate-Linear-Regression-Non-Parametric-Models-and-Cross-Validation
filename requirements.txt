@@ -1,0 +1,10 @@
+# Notebook execution
+notebook
+
+# Packages imported by Practical_Lab_2.ipynb
+ipython
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
